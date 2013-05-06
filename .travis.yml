@@ -1,0 +1,9 @@
+language: php
+php: 5.4
+
+script: phantomjs lib/phantomjs-run-qunit.js test/tester.html
+
+notifications:
+  email:
+    - toto@hotmail.com
+
