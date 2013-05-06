@@ -7,5 +7,4 @@ Human Talk Grenoble, the 14th of may.
 
 Resources :
 -----------
-the file lib/phantomjs-run-qunit.js comes from this URL : [https://github.com/ariya/phantomjs/blob/master/examples/run-qunit.js].gitignore
-                                                                                                                                .travis.yml
+the file lib/phantomjs-run-qunit.js comes from this URL : [run-qunit.js](https://github.com/ariya/phantomjs/blob/master/examples/run-qunit.js)
